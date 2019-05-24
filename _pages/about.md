@@ -12,7 +12,7 @@ Hello! I am Shruti.
 
 I currently work as a Research Engineer at [Raxter](https://raxter.io), which is a tool to boost research productivity. 
 
-I completed my Bachelors (Hons.) in ICT with a minor in Computational Science from [DA-IICT](https://www.daiict.ac.in/).
+I completed my Bachelors (Hons.) in Information and Communication Technology with a minor in Computational Science from [DA-IICT](https://www.daiict.ac.in/).
 
 <!-- It's a magical world, Hobbes, ol' buddy. Let's go exploring! -->
 
