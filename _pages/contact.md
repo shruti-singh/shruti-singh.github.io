@@ -7,5 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-### E-mail id: shrutis1051@gmail.com
-### Phone number: +91 9537160842
+### E-mail id: singh_shruti@iitgn.ac.in | shrutis1051@gmail.com
