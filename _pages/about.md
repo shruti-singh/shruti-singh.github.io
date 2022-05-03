@@ -18,6 +18,8 @@ I completed my Bachelors (Hons.) in Information and Communication Technology wit
 
 
 ## News
+**Feb 2022:** [The Inefficiency of Language Models in Scholarly Retrieval: An Experimental Walk-through](https://arxiv.org/abs/2203.15364) accepted at Findings of ACL 2022!  
+**Feb 2022:** Selected for Prime Minister’s Research Fellowship (PMRF)!  
 **July 2021:** Excited to attend [Science of Science Summer School S4 2021](https://s4.scienceofscience.org/)!  
 **May 2021:** [TweeNLP: A Twitter Exploration Portal for Natural Language Processing](http://lingo.iitgn.ac.in:5001/twitter/ACL2020) will appear at ACL-IJCNLP Demonstrations 2021.  
 **May 2021:** [COMPARE: A  Taxonomy and Dataset of Comparison Discussions in Peer Reviews](https://github.com/shruti-singh/COMPARE) got accepted at the Joint Conference on Digital Libraries (JCDL) 2021.  
