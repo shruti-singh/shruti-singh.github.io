@@ -18,11 +18,12 @@ I completed my Bachelors (Hons.) in Information and Communication Technology wit
 
 
 ## News
-**Feb 2022:** [The Inefficiency of Language Models in Scholarly Retrieval: An Experimental Walk-through](https://arxiv.org/abs/2203.15364) accepted at Findings of ACL 2022!  
-**Feb 2022:** Selected for Prime Minister’s Research Fellowship (PMRF)!  
+**May 2022:** Selected for the ORKG Curation Grant 2022 by TIB Hannover!  
+**Feb 2022:** [The Inefficiency of Language Models in Scholarly Retrieval: An Experimental Walk-through](https://aclanthology.org/2022.findings-acl.249/) accepted at Findings of ACL 2022!  
+**Oct 2022:** Selected for Prime Minister’s Research Fellowship (PMRF)!  
 **July 2021:** Excited to attend [Science of Science Summer School S4 2021](https://s4.scienceofscience.org/)!  
 **May 2021:** [TweeNLP: A Twitter Exploration Portal for Natural Language Processing](http://lingo.iitgn.ac.in:5001/twitter/ACL2020) will appear at ACL-IJCNLP Demonstrations 2021.  
-**May 2021:** [COMPARE: A  Taxonomy and Dataset of Comparison Discussions in Peer Reviews](https://github.com/shruti-singh/COMPARE) got accepted at the Joint Conference on Digital Libraries (JCDL) 2021.  
+**May 2021:** [COMPARE: A  Taxonomy and Dataset of Comparison Discussions in Peer Reviews](https://ieeexplore.ieee.org/document/9651878) got accepted at the Joint Conference on Digital Libraries (JCDL) 2021.  
 **Jan 2021:** [Genealogical tree construction of research paper](https://dl.acm.org/doi/abs/10.1145/3430984.3431056) will appear at the Young Researcher Symposium, CODS-COMAD 2021.  
 **Dec 2020:** [Understanding Attention: In Minds and Machines](https://ml-retrospectives.github.io/neurips2020/accepted_papers/index.html) got accepted at ML Retrospectives, Surveys & Meta-Analyses @ NeurIPS 2020 Workshop.  
 **Aug 2020:** I am excited to attend the CIFAR Deep Learning + Reinforcement Learning Summer School 2020 hosted by CIFAR and Mila.  
