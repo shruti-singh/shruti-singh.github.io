@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I am Shruti. 
 
-I am a doctoral student in the Computer Science & Engineering discipline at [IIT Gandhinagar](https://www.iitgn.ac.in/), where I am advised by [Prof. Mayank Singh](https://mayank4490.github.io/). My research interests lie in the field of Natural Language Processing, Information Retrieval, and Social Networks. Specifically, I am interested in information extraction from scientific literature. My research goal is to develop tools that assist researchers at various stages of the research cycle and expedite the process of knowledge discovery. Recently, I have also started exploring Psycholinguistics. I am interested in understanding how humans acquire and understand language.
+I am a doctoral student and a Prime Minister's Research Fellow (PMRF) in the Computer Science & Engineering discipline at [IIT Gandhinagar](https://www.iitgn.ac.in/), where I am advised by [Prof. Mayank Singh](https://mayank4490.github.io/). My research interests lie in the field of Natural Language Processing, Information Retrieval, and Social Networks. Specifically, I am interested in learning representations of long documents (specifically scientific articles). My research goal is to develop tools that assist researchers at various stages of the research cycle and expedite the process of knowledge discovery. Recently, I have also started exploring Psycholinguistics. I am interested in understanding how humans acquire and understand language.
 
 Earlier, I was a Research Engineer at [Raxter](https://raxter.io), which is an AI powered research workflow assistant platform. Prior to this, I was a Product Engineer at [Sprinklr Inc](https://www.sprinklr.com/).
 
