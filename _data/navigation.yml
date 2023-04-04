@@ -12,6 +12,9 @@ main:
   - title: "Posts"
     url: /posts/
 
+  - title: "Portals"
+    url: /portals/
+
   # - title: "Notes"
   #   url: /notes/
     
