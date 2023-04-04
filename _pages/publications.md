@@ -10,6 +10,11 @@ author_profile: true
 
 
 
+* <a href="" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Towards Development of Personalized and Generalized Interfaces for Brain Signals across Different Styles of Meditation</a>  
+ICGVIP 2022  
+Shruti Singh, Pankaj Pandey, Shivam Chaudhary, Krishna Miyapuram, Derek Lomas
+
+
 * <a href="https://aclanthology.org/2022.findings-acl.249/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: underline;text-decoration-style: dotted;">The Inefficiency of Language Models in Scholarly Retrieval: An Experimental Walkthrough</a>  
 Findings of ACL 2022  
 Shruti Singh, Mayank Singh  
