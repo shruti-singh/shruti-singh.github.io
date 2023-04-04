@@ -2,15 +2,15 @@
 main:
   - title: "CV"
     url: /files/ShrutiResume.pdf  
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
 
   - title: "Contact"
     url: /contact/
 
   - title: "Publications"
     url: /publications/
+
+  # - title: "Posts"
+  #   url: /posts/
 
   # - title: "Notes"
   #   url: /notes/
