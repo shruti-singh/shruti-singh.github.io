@@ -10,7 +10,7 @@ author_profile: true
 
 
 
-* <a href="" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Towards Development of Personalized and Generalized Interfaces for Brain Signals across Different Styles of Meditation</a>  
+* <a href="https://dl.acm.org/doi/10.1145/3571600.3571656" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Towards Development of Personalized and Generalized Interfaces for Brain Signals across Different Styles of Meditation</a>  
 ICGVIP 2022  
 Shruti Singh, Pankaj Pandey, Shivam Chaudhary, Krishna Miyapuram, Derek Lomas
 
