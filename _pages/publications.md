@@ -25,7 +25,7 @@ Joint Conference on Digital Libraries 2021
 Shruti Singh, Mayank Singh, Pawan Goyal  
 
 
-* <a href="https://ieeexplore.ieee.org/document/9651878" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: underline;text-decoration-style: dotted;">TweeNLP: A Twitter Exploration Portal for Natural Language Processing</a>  <a href="http://lingo.iitgn.ac.in:5001/twitter/ACL2021" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">(Portal)</a>  
+* <a href="https://aclanthology.org/2021.acl-demo.32/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: underline;text-decoration-style: dotted;">TweeNLP: A Twitter Exploration Portal for Natural Language Processing</a>  <a href="http://lingo.iitgn.ac.in:5001/twitter/ACL2021" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: none;">(Portal)</a>  
 Demonstrations, ACL-IJCNLP 2021  
 Viraj Shah, Shruti Singh, Mayank Singh  
 

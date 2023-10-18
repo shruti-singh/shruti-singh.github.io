@@ -3,9 +3,6 @@ main:
   - title: "CV"
     url: /files/ShrutiResume.pdf  
 
-  - title: "Contact"
-    url: /contact/
-
   - title: "Publications"
     url: /publications/
 

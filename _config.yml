@@ -83,7 +83,7 @@ author:
   name             : "Shruti Singh"
   avatar           : "profile.jpeg"
   bio              : ""
-  location         : "Gandhinagar, India"
+  # location         : "Gandhinagar, India"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=brlyk24AAAAJ"

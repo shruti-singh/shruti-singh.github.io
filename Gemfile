@@ -24,4 +24,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  # gem 'bcrypt-ruby'
 end
+
+gem "webrick", "~> 1.8"
