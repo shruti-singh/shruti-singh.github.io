@@ -10,6 +10,25 @@ author_profile: true
 
 
 
+* <a href="https://arxiv.org/abs/2411.05338" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: underline;text-decoration-style: dotted;">SciDQA: A Deep Reading Comprehension Dataset over Scientific Papers</a>  
+EMNLP 2024  
+Shruti Singh, Nandan Sarkar, Arman Cohan  
+
+
+* <a href="https://arxiv.org/abs/2401.06233" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: underline;text-decoration-style: dotted;">LEGOBench: Scientific Leaderboard Generation Benchmark</a>  
+EMNLP Findings 2024  
+Shruti Singh, Shoaib Alam, Husain Malwat, Mayank Singh  
+
+
+* <a href="https://aclanthology.org/2024.sdp-1.27/" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: underline;text-decoration-style: dotted;">CoSAEmb: Contrastive Section-aware Aspect Embeddings for Scientific Articles</a>  
+Scholarly Document Processing Workshop at ACL 2024  
+Shruti Singh, Mayank Singh  
+
+
+* <a href="https://arxiv.org/pdf/2309.12616" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Unlocking Model Insights: A Dataset for Automated Model Card Generation</a>    
+Shruti Singh, Hitesh Lodwal, Husian Malwat, Rakesh Thakur, Mayank Singh  
+
+
 * <a href="https://dl.acm.org/doi/10.1145/3571600.3571656" target="_blank" rel="noopener noreferrer" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Towards Development of Personalized and Generalized Interfaces for Brain Signals across Different Styles of Meditation</a>  
 ICGVIP 2022  
 Shruti Singh, Pankaj Pandey, Shivam Chaudhary, Krishna Miyapuram, Derek Lomas
