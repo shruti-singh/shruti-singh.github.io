@@ -10,9 +10,9 @@ redirect_from:
 
 singh_shruti AT iitgn DOT ac DOT in
 
-I am a doctoral student in the Computer Science & Engineering discipline at <a href="https://www.iitgn.ac.in/" target="_blank" rel="noopener noreferrer">IIT Gandhinagar</a>, where I am advised by <a href="https://mayank4490.github.io/" target="_blank" rel="noopener noreferrer">Prof. Mayank Singh</a>.  
+I am a Research Engineer at Microsoft Research, Bangalore. I obtained my PhD from <a href="https://www.iitgn.ac.in/" target="_blank" rel="noopener noreferrer">IIT Gandhinagar</a>, where I was advised by <a href="https://mayank4490.github.io/" target="_blank" rel="noopener noreferrer">Prof. Mayank Singh</a>.  
 
-My research is supported by Prime Minister's Research Fellowship (<a href="https://www.pmrf.in/" target="_blank" rel="noopener noreferrer">PMRF</a>) and <a href="https://www.usief.org.in/index.aspx" target="_blank" rel="noopener noreferrer">Fulbright-Nehru Doctoral Research Fellowship</a>. I am currently a visiting Fulbright-Nehru Scholar at Yale University, where I am grateful to be advised by <a href="https://armancohan.com/" target="_blank" rel="noopener noreferrer">Prof. Arman Cohan</a>.  
+My PhD research is supported by Prime Minister's Research Fellowship (<a href="https://www.pmrf.in/" target="_blank" rel="noopener noreferrer">PMRF</a>) and <a href="https://www.usief.org.in/index.aspx" target="_blank" rel="noopener noreferrer">Fulbright-Nehru Doctoral Research Fellowship</a>. I was a visiting Fulbright-Nehru Scholar at Yale University, where I was advised by <a href="https://armancohan.com/" target="_blank" rel="noopener noreferrer">Prof. Arman Cohan</a>.  
 
 My research interests lie in the field of Natural Language Processing, Information Retrieval, and Social Networks. Specifically, I am interested in learning representations of long documents (specifically scientific articles). My research goal is to develop tools that assist researchers at various stages of the research cycle and expedite the process of knowledge discovery, and to democratize the entry of marginalized communities into research. Recently, I have also started exploring Psycholinguistics. I am interested in understanding how humans acquire and understand language.
 
@@ -22,6 +22,9 @@ I completed my Bachelors (Hons.) in Information and Communication Technology wit
 
 
 ## News
+**June 2025:** Successfully defended my PhD thesis.  
+**Apr 2025:** Delighted to share that I started as a Research Engineer at Microsoft Research.  
+**Oct 2024:** 2/2 papers accepted at EMNLP 2024.  
 **Aug 2023 - Jan 2024:** Fulbright-Nehru Visiting Researcher at Yale University.  
 **Aug 2022:** Intern at Bosch Research from Aug-Dec 2022.  
 **May 2022:** Selected for the ORKG Curation Grant 2022 by TIB Hannover, Germany!  
